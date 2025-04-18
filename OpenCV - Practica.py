@@ -25,4 +25,3 @@ while(1):
 
 webcam.release()
 cv.destroyAllWindows()
-#F
